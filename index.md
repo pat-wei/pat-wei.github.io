@@ -8,3 +8,7 @@ My main character is the machine itself that they are building. Actually the mac
 * relentless
 * irresistable
 * intelligent
+
+The machine many times displayed to the purveyor:
+
+> Out of Memory. Going to crash in 5 4 3 2 }Ç≠[¡
