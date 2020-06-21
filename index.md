@@ -12,3 +12,5 @@ My main character is the machine itself that they are building. Actually the mac
 The machine many times displayed to the purveyor:
 
 > Out of Memory. Going to crash in 5 4 3 2 }Ç≠[¡
+
+<img src="https://images.unsplash.com/photo-1578801503688-d30fffee6a9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1237&q=80"/>
